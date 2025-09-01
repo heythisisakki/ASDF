@@ -1,0 +1,14 @@
+body header {
+    font-size: 25pt;
+    background-color: bisque;
+    padding: 25pt;
+}
+
+body main {
+    font-size: 20pt;
+}
+
+body footer {
+    background-color: bisque;
+    padding: 25pt;
+}
